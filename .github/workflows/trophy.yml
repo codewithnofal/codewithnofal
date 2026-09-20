@@ -20,22 +20,23 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: codewithnofal
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: /tmp/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: dracula
 
-      - name: Move trophy to output folder
-        run: |
-          mkdir -p trophy-output
-          mv trophy.svg trophy-output/trophy.svg
-
-      - name: Commit trophy
+      - name: Publish trophy to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add trophy-output/trophy.svg
+          cp /tmp/trophy.svg ./trophy.svg
 
-          git diff --staged --quiet || git commit -m "Update GitHub trophy"
+          git fetch origin trophy-output || true
 
-          git push
+          git checkout --orphan trophy-output
+
+          git rm -rf . || true
+
+          git add trophy.svg
+          git commit -m "Update GitHub trophy"
+          git push origin trophy-output --force
