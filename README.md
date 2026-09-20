@@ -165,6 +165,44 @@ A frontend finance management application for tracking income, expenses, balance
 
 <p align="center">
   <img
+    src="./assets/github-stats.svg"
+    width="90%"
+    alt="Nofal's GitHub Stats"
+  />
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=codewithnofal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+    height="170"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<br />
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="./assets/trophy.svg"
+    width="95%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    width="90%"
+    alt="Pacman Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
     width="90%"
     alt="Pacman Contribution Graph"
