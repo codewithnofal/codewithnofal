@@ -62,7 +62,7 @@ I'm a Software Engineer focused on building **modern, scalable and user-focused 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 </p>
 
-### 🤖 AI / Tools
+### 🤖 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
@@ -162,52 +162,35 @@ JavaScript • LocalStorage • Tailwind CSS
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithnofal&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithnofal&layout=compact&langs_count=8&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=codewithnofal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
-## 📈 Contribution Activity
+<img src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithnofal&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
+</div>
 
----
+<br>
 
-## 🔥 Contribution Streak
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithnofal&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithnofal/codewithnofal/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithnofal/codewithnofal/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
----
+</div>
 
-## 🐍 Contribution Graph
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
-# 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithnofal&theme=github_dark" width="100%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithnofal&theme=github_dark" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithnofal&theme=github_dark" width="48%"/>
-
-</p>
+</div>
 
 ---
 
@@ -224,7 +207,7 @@ JavaScript • LocalStorage • Tailwind CSS
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithnofal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithnofal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
