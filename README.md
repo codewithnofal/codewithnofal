@@ -173,15 +173,6 @@ A frontend finance management application for tracking income, expenses, balance
 
 ---
 
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/codewithnofal/codewithnofal/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    width="420"
-    alt="Most Used Languages"
-  />
-</p>
 
 ---
 
