@@ -171,8 +171,6 @@ A frontend finance management application for tracking income, expenses, balance
   />
 </p>
 
----
-
 
 ---
 
