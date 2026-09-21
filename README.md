@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nofal Kachhot</h1>
+<h1 align="center">Hi 👋, I'm Nofal </h1>
 
 <h3 align="center">
 Software Engineer • Full-Stack Developer • AI Enthusiast • DSA
